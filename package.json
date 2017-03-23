@@ -10,7 +10,8 @@
     "url": "https://github.com/jgallen23/node-ga.git"
   },
   "dependencies": {
-    "request": "*"
+    "request": "*",
+    "util": "*"
   },
   "devDependencies": {
     "qunit": "*"
